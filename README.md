@@ -6,8 +6,8 @@ Projeto de teste para página da marca DT3
 
 ## Tarefas
 
-[x] Layout responsivo
-[x] Implementar carousel
-[x] Por o projeto no github
-[ ] Expandir vídeo ao clicar
-[ ] Mudar aleatoriamente a ordem do carousel ao recarregar a página
+* [x] Layout responsivo
+* [x] Implementar carousel
+* [x] Por o projeto no github
+* [ ] Expandir vídeo ao clicar
+* [ ] Mudar aleatoriamente a ordem do carousel ao recarregar a página
