@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background-primary);
+  color: var(--foreground-primary);
+}
+
+a {
+  text-decoration: none;
+}
