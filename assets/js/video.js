@@ -1,4 +1,5 @@
 function loadVideoList() {
+  const videoList = document.querySelector('.videos');
   const fullVideo = document.querySelector('.full-video');
   const playButton = document.querySelector('.video.active .play');
   const closeButton = document.querySelector('.full-video .close');
@@ -14,5 +15,6 @@ function loadVideoList() {
   closeButton.addEventListener('click', function() {
     playButton.classList.remove('hidden');
     fullVideo.classList.add('closed');
+    videoList.scrollIntoView();
   });
 }
