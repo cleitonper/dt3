@@ -29,5 +29,6 @@
       include 'partials/videos.php';
     ?>
   </main>
+  <?php include 'partials/footer.php'; ?>
 </body>
 </html>
