@@ -253,10 +253,12 @@ main {
   font-weight: 800;
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
   color: #131313;
 }
 
+.share button,
+.welcome button,
 .elite button {
   transition: all 400ms;
   border: 1px solid red;
@@ -268,6 +270,8 @@ main {
   font-size: 16px;
 }
 
+.share button:hover,
+.welcome button:hover,
 .elite button:hover {
   background-color: red;
   color: #ffffff;
@@ -331,6 +335,7 @@ main {
 .share p {
   font-size: 17px;
   line-height: 1.35em;
+  margin-bottom: 16px;
 }
 
 @media (max-width: 1024px) {

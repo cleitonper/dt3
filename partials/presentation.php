@@ -18,6 +18,7 @@
       atende todas as necessidades e público Brasileiro.
       Sempre prezando pela qualidade e design gamer.
     </p>
+    <button>Saiba mais</button>
   </div>
   <div class="share">
     <h3>
@@ -30,6 +31,7 @@
       Desenvolva e apresente sua ideia da forma que quiser mas que seja clara e
       quem sabe você possa fazer parte da equipe! ;D
     </p>
+    <button>Saiba mais</button>
   </div>
   <div class="woman">
     <img src="assets/img/woman.png" alt="Mulher sentada em uma cadeira da linha DT3 Sports">
