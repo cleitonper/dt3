@@ -1,4 +1,4 @@
-window.onload = function() {
+function loadSlider(){
   const slider = document.querySelector('#slider-categories');
   const prevButton = slider.querySelector('.prev');
   const nextButton = slider.querySelector('.next');

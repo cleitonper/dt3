@@ -1,4 +1,4 @@
-window.onload = function() {
+function loadVideoList() {
   const fullVideo = document.querySelector('.full-video');
   const playButton = document.querySelector('.video.active .play');
   const closeButton = document.querySelector('.full-video .close');

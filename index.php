@@ -18,6 +18,7 @@
   >
   <script src="assets/js/slider.js"></script>
   <script src="assets/js/video.js"></script>
+  <script src="assets/js/main.js"></script>
   <title>DT3</title>
 </head>
 <body>
